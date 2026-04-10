@@ -11,19 +11,19 @@
     "babel-plugin-transform-object-rest-spread": "^6.26.0",
     "babel-preset-es2015": "^6.3.13",
     "babel-preset-react": "^6.3.13",
-    "babelify": "^7.2.0",
+    "babelify": "^10.0.0",
     "browserify": "^14.4.0",
     "bundle-collapser": "^1.3.0",
     "envify": "^4.1.0",
-    "react": "^15.4.2",
-    "react-dom": "^15.4.2",
-    "react-json-view": "^1.12.0",
+    "react": "^19.2.5",
+    "react-dom": "^19.2.5",
+    "react-json-view": "^1.21.3",
     "react-simpletabs": "^0.7.0",
     "react-table": "^6.8.2",
     "react-virtualized": "^9.9.0",
     "uglify-js": "^3.0.27",
-    "uglifyify": "^4.0.3",
-    "watchify": "^3.9.0"
+    "uglifyify": "^5.0.2",
+    "watchify": "^4.0.0"
   },
   "devDependencies": {}
 }
